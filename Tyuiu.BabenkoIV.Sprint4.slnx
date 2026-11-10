@@ -1,0 +1,7 @@
+<Solution>
+  <Folder Name="/Task0/">
+    <Project Path="Tyuiu.BabenkoIV.Sprint4.Task0.V22.Lib/Tyuiu.BabenkoIV.Sprint4.Task0.V22.Lib.csproj" />
+    <Project Path="Tyuiu.BabenkoIV.Sprint4.Task0.V22.Test/Tyuiu.BabenkoIV.Sprint4.Task0.V22.Test.csproj" />
+    <Project Path="Tyuiu.BabenkoIV.Sprint4.Task0.V22/Tyuiu.BabenkoIV.Sprint4.Task0.V22.csproj" />
+  </Folder>
+</Solution>
