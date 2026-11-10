@@ -21,5 +21,7 @@
   </Folder>
   <Folder Name="/Task4/">
     <Project Path="Tyuiu.BabenkoIV.Sprint4.Task4.V7.Lib/Tyuiu.BabenkoIV.Sprint4.Task4.V7.Lib.csproj" />
+    <Project Path="Tyuiu.BabenkoIV.Sprint4.Task4.V7.Test/Tyuiu.BabenkoIV.Sprint4.Task4.V7.Test.csproj" />
+    <Project Path="Tyuiu.BabenkoIV.Sprint4.Task4.V7/Tyuiu.BabenkoIV.Sprint4.Task4.V7.csproj" />
   </Folder>
 </Solution>
